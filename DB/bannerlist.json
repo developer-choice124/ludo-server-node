@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5eb6c0820c5d524ee33a527d"},"imageURL":"https://ludogameserver.s3.amazonaws.com/undefined/1589035021448%20-%20bg01.jpg","status":0,"order":1}
+{"_id":{"$oid":"5eb6c0990c5d524ee33a527e"},"imageURL":"https://ludogameserver.s3.ap-south-1.amazonaws.com/undefined/1589035061443%20-%2010bc753fedba54ceeb20fb0a0f2be539.jpg","status":0,"order":2}
+{"_id":{"$oid":"5eb6c0ab0c5d524ee33a527f"},"imageURL":"https://ludogameserver.s3.ap-south-1.amazonaws.com/undefined/1589035089957%20-%20colored-ludo-dice-wallpaper.jpg","status":0,"order":3}
+{"_id":{"$oid":"5ebeff69d8497522b66a2c6a"},"imageURL":"https://ludogameserver.s3.ap-south-1.amazonaws.com/bannerimages/1589575525014%20-%2010bc753fedba54ceeb20fb0a0f2be539.jpg","status":1,"order":1}
+{"_id":{"$oid":"5ebeff9bd8497522b66a2c6b"},"imageURL":"https://ludogameserver.s3.ap-south-1.amazonaws.com/bannerimages/1589575573964%20-%201492592.jpg","status":1,"order":2}
+{"_id":{"$oid":"5ebeffb0d8497522b66a2c6c"},"imageURL":"https://ludogameserver.s3.ap-south-1.amazonaws.com/bannerimages/1589575596381%20-%20bg01.jpg","status":1,"order":3}
+{"_id":{"$oid":"5ebeffc0d8497522b66a2c6d"},"imageURL":"https://ludogameserver.s3.ap-south-1.amazonaws.com/bannerimages/1589575612903%20-%20colored-ludo-dice-wallpaper.jpg","status":1,"order":4}
